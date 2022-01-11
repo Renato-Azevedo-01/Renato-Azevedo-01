@@ -3,3 +3,4 @@
 - 🌱 I'm often improving with new programming languages and their development platforms.
 - 💞️ I'm looking to collaborate on projects related to e-commerce, as this is already the present and future.
 - 📫 reach me at e-mail: renato.azevedo0001@gmail.com or mobile: +55(11)98220-1007 
+-    Follow me at [LinkedIn](https://www.linkedin.com/in/renatoafazevedo/)
