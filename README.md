@@ -2,4 +2,4 @@
 - 👀 I develop projects in HTML, CSS and Java Script (front-end). I'm improving on the Python language.
 - 🌱 I'm often improving with new programming languages and their development platforms.
 - 💞️ I'm looking to collaborate on projects related to e-commerce, as this is already the present and future.
-- 📫 reach me at e-mail: (mailto:renato.azevedo0001@gmail.com) or mobile: +55(11)98220-1007
+- 📫 reach me at e-mail: (renato.azevedo0001@gmail.com) or mobile: +55(11)98220-1007
