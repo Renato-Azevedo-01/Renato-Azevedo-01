@@ -5,7 +5,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/RenatoAFAzevedo/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RenatoA84698888)
 ![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renato-Azevedo-01&theme=radical&show_icons=true)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Azevedo-01&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Azevedo-01&layout=compact)](https://github.com/Renato-Azevedo-01/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display:inline-block"><br>
