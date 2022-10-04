@@ -18,6 +18,11 @@
   <img align="center" alt="Renato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Renato-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Renato-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
+  <img align="center" alt="Renato-Elementor"  src="https://img.shields.io/badge/-Elementor-%23E4405F?style=for-the-badge&logo=elementor&logoColor=white">
+  <img align="center" alt="Renato-Microthemer"  src="https://img.shields.io/badge/-MT-%2132E38?style=for-the-badge&logo=microthemer&logoColor=white"> 
+</div>
   <br><br><hr>
   
 <div>
